@@ -1,2 +1,2 @@
 export FLASK_APP=microblog.py
-flask run
+python3 -m flask run
